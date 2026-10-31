@@ -1,3 +1,165 @@
 {
-  "events": []
+  "events": [
+    {
+      "date": "2026-08-07",
+      "title": "Tipton Toy Show",
+      "city": "Tipton",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Tipton Toy Show",
+      "city": "Tipton",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Goshen Toy Show",
+      "city": "Goshen",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Danville Toy Show",
+      "city": "Danville",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Danville Toy Show",
+      "city": "Danville",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Danville Toy Show",
+      "city": "Danville",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Liberty Toy Show",
+      "city": "Liberty",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Greentown Toy Show",
+      "city": "Greentown",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Napoleon Toy Show",
+      "city": "Napoleon",
+      "state": "OH",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Napoleon Toy Show",
+      "city": "Napoleon",
+      "state": "OH",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Harlan Toy Show",
+      "city": "Harlan",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Franklin Toy Show",
+      "city": "Franklin",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2026-12-06",
+      "title": "Greenville Toy Show",
+      "city": "Greenville",
+      "state": "OH",
+      "description": "Details marked TBD in the published schedule; please verify before traveling."
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Taylorsville Toy Show",
+      "city": "Taylorsville",
+      "state": "KY",
+      "description": "Details marked TBD in the published schedule; please verify before traveling."
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Taylorsville Toy Show",
+      "city": "Taylorsville",
+      "state": "KY",
+      "description": "Details marked TBD in the published schedule; please verify before traveling."
+    },
+    {
+      "date": "2026-12-13",
+      "title": "Portland Toy Show",
+      "city": "Portland",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-01-02",
+      "title": "Richmond Toy Show",
+      "city": "Richmond",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-01-03",
+      "title": "Richmond Toy Show",
+      "city": "Richmond",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-01-17",
+      "title": "Winamac Toy Show",
+      "city": "Winamac",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-02-14",
+      "title": "Tipton Toy Show",
+      "city": "Tipton",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-03-05",
+      "title": "Lafayette Toy Show",
+      "city": "Lafayette",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-03-06",
+      "title": "Lafayette Toy Show",
+      "city": "Lafayette",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    },
+    {
+      "date": "2027-03-07",
+      "title": "Lafayette Toy Show",
+      "city": "Lafayette",
+      "state": "IN",
+      "description": "Midwest Model Works show appearance. Time and venue not yet listed."
+    }
+  ]
 }
